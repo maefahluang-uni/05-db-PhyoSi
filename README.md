@@ -15,7 +15,7 @@ In UserRepository, declare the following methods that help to find all user and 
 - `data.sql` contains insert statements for dummy users. Find where this file is and explain what it is used for? 
 
 ```
-Your answer
+ It is in src/main/resources and it is used for creating dummy data.
 ```
 
 ## User Reservice - Complete the code
